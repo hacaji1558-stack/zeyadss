@@ -39,7 +39,6 @@ if show_clean_message:
             "# hey esraa i just wanted to say how much i love u and how much you made my life better , "
             "i really love u and thanks for making my life better"
         )
-        st.image("esraa.jpg", use_container_width=True)
 
     st.write("")
     if st.button("⬅️ Back"):
