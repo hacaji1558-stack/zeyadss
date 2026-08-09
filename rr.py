@@ -1,7 +1,7 @@
 import streamlit as st
 import time
 
-st.set_page_config(page_title="Ahmed's Elevator Portfolio", layout="wide")
+st.set_page_config(page_title="shakira", layout="wide")
 
 if "floor" not in st.session_state:
     st.session_state.floor = 1
